@@ -23,6 +23,7 @@ Repo contains the solutions of the practice question of GeeksforGeeks from C_, J
 - [Segregate 0 and 1](Segregate_0_1.cpp)
 - [Sum Of Diagonal Of 2d Array](SumOfDiagonalOf2dArray.java)
 - [Wave Array.cpp](Wave_Array.cpp)
+- [X Total Shapes - Graph.cpp](X_Total_Shapes.cpp)
 
 
 
