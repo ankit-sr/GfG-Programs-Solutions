@@ -16,6 +16,7 @@ Repo contains the solutions of the practice question of GeeksforGeeks from C_, J
 - [Intersection of two arrays using set](Intersection_of_two_arrays_using_set.cpp)
 - [Loop in LInked List](Loop_in_Linked_List.cpp)
 - [Midori and Chocolates](Midori_and_Chocolates.cpp)
+- [Minimum Spanning Tree](Minimum_Spanning_Tree.cpp)
 - [Number of 1 bits.cpp](Number_of_1_bits.cpp)
 - [Quick Sort.cpp](Quick_Sort.cpp)
 - [Rearrange Array](Rearrange_Array.cpp)
