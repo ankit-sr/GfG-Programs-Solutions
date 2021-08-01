@@ -17,6 +17,7 @@ Repo contains the solutions of the practice question of GeeksforGeeks from C_, J
 - [Loop in LInked List](Loop_in_Linked_List.cpp)
 - [Midori and Chocolates](Midori_and_Chocolates.cpp)
 - [Minimum Spanning Tree](Minimum_Spanning_Tree.cpp)
+- [Minimum Swaps to Sort](Minimum_Swaps_to_Sort.cpp)
 - [Number of 1 bits.cpp](Number_of_1_bits.cpp)
 - [Quick Sort.cpp](Quick_Sort.cpp)
 - [Rearrange Array](Rearrange_Array.cpp)
