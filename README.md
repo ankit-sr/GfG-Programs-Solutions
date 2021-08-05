@@ -4,6 +4,7 @@ Repo contains the solutions of the practice question of GeeksforGeeks from C_, J
 ### Programs
 - [Count pairs of given sum](Count_pairs_of_given_sum.cpp)
 - [Count nodes of linked list](Count_nodes_of_linked_list.cpp)
+- [Count the paths - Graph](Count_the_paths.cpp)
 - [Delete without head pointer(ll).cpp](Delete_without_head_pointer(ll).cpp)
 - [DFS of Graph](DFS_of_Graph.cpp)
 - [Find Transition Point](Find_Transition_Point.cpp)
