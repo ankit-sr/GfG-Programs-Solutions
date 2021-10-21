@@ -25,6 +25,7 @@ Repo contains the solutions of the practice question of GeeksforGeeks from C_, J
 - [Rotate array by one](Rotate_array_by_one.c)
 - [Segregate 0 and 1](Segregate_0_1.cpp)
 - [Sum Of Diagonal Of 2d Array](SumOfDiagonalOf2dArray.java)
+- [Unit Area of largest region of 1's](Unit_Area_of_largest_region_of_1s.cpp)
 - [Wave Array.cpp](Wave_Array.cpp)
 - [X Total Shapes - Graph.cpp](X_Total_Shapes.cpp)
 
